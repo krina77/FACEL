@@ -1,0 +1,20 @@
+{
+    "data":{
+        "nombreUsuarioValido": "pruebas@facturelo.com",
+        "contrasenaValida": "123456a",
+        "nombreUsuarioInvalido": "pruebas@faturelo.com",
+        "contrasenaInvalido": "12346a",
+        "urlLogin": "https://test.facelcr.com/#/",
+        "urlInicio": "https://test.facelcr.com/#/inicio",
+        "urlConteins": "inicio",
+        "loginIncorrecto": "Credenciales Incorrectos",
+        "loginButton": "Ingresar a la Plataforma",
+        "cuantaPrueba": "karinaprobandojohan@mailiator.com",
+        "nombre": "nombre"
+    },
+    "elementos":{
+        "nombreUsuarioInput": ".pos-relative > .form-control",
+        "contrasenaInput": ":nth-child(3) > .form-control",
+        "loginButton": ".btn"
+    }
+}
